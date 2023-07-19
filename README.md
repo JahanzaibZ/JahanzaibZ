@@ -8,7 +8,7 @@ This is where I manage my personal projects.
 -->
 <p> I'm a passionate programmer with three years of coding experience across various projects. I've focused on mobile app development using the Flutter framework, which has become my expertise. My constant curiosity for new technologies keeps me engaged and motivated to learn and grow. Feel free to connect with me and let's embark on a journey of innovation together! </p>
 
-- 🌱 &nbsp;I’m currently learning Javascript
+- 🌱 &nbsp;I’m currently learning Android App Development
 - 💬 &nbsp;Ask me about anything related to Flutter
 - 👯 &nbsp;I’m looking to collaborate on any open-source project
 - ⚡ &nbsp;Fun fact: I love playing :video_game:
